@@ -1,0 +1,22 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+i {
+  position: relative;
+  left: 134px;
+  top: 24px;
+  color: white;
+}
+input {
+  padding: 5px;
+  border: none;
+  background-color: #130f40;
+  border-bottom: 1px solid #241d75;
+  outline: none;
+}
+body {
+  background-color: #130f40;
+}
+div {
+  width: 100px;
+  margin: auto;
+  padding-top: 300px;
+}
